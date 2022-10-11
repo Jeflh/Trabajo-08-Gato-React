@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/trabajo-08-gato-react/static/css/main.845ad700.css",
-    "main.js": "/trabajo-08-gato-react/static/js/main.933f1d55.js",
-    "index.html": "/trabajo-08-gato-react/index.html",
-    "main.845ad700.css.map": "/trabajo-08-gato-react/static/css/main.845ad700.css.map",
-    "main.933f1d55.js.map": "/trabajo-08-gato-react/static/js/main.933f1d55.js.map"
+    "main.css": "/Trabajo-08-Gato-React/static/css/main.845ad700.css",
+    "main.js": "/Trabajo-08-Gato-React/static/js/main.933f1d55.js",
+    "index.html": "/Trabajo-08-Gato-React/index.html",
+    "main.845ad700.css.map": "/Trabajo-08-Gato-React/static/css/main.845ad700.css.map",
+    "main.933f1d55.js.map": "/Trabajo-08-Gato-React/static/js/main.933f1d55.js.map"
   },
   "entrypoints": [
     "static/css/main.845ad700.css",
