@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Trabajo-08-Gato-React/static/css/main.845ad700.css",
-    "main.js": "/Trabajo-08-Gato-React/static/js/main.933f1d55.js",
+    "main.css": "/Trabajo-08-Gato-React/static/css/main.2c97d988.css",
+    "main.js": "/Trabajo-08-Gato-React/static/js/main.88a1979f.js",
     "index.html": "/Trabajo-08-Gato-React/index.html",
-    "main.845ad700.css.map": "/Trabajo-08-Gato-React/static/css/main.845ad700.css.map",
-    "main.933f1d55.js.map": "/Trabajo-08-Gato-React/static/js/main.933f1d55.js.map"
+    "main.2c97d988.css.map": "/Trabajo-08-Gato-React/static/css/main.2c97d988.css.map",
+    "main.88a1979f.js.map": "/Trabajo-08-Gato-React/static/js/main.88a1979f.js.map"
   },
   "entrypoints": [
-    "static/css/main.845ad700.css",
-    "static/js/main.933f1d55.js"
+    "static/css/main.2c97d988.css",
+    "static/js/main.88a1979f.js"
   ]
 }
